@@ -1,2 +1,3 @@
 g4f
 gradio
+curl_cffi
