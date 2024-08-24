@@ -3,5 +3,5 @@ services:
     name: gradio-chatbot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python app.py
+    startCommand: python chatapp.py
     plan: free
